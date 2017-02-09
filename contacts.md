@@ -6,7 +6,7 @@
 
 Кафедра информационных технологий и автоматизации проектирования
 
-s.v.byvaltsev@urfu.ru
+s.v.byvaltsev@urfu.ru s_ikar@mail.ru +7(908)639-19-76
 
 - ММИ_ИТиАП_09.04.01_Д1.9.2_Интернет вещей
 - ММИ_ИТиАП_09.04.03_Д1.6.2_Интернет вещей
@@ -27,7 +27,7 @@ p.a.koporushkin@urfu.ru KoporushkinPA@ektb.vtb24.ru
 
 Кафедра информационных технологий и автоматизации проектирования
 
-sergey.kuznetsov@urfu.ru
+sergey.kuznetsov@urfu.ru sergvalkuz@gmail.com Sergkuz@spk.ru +7(912)601-07-77
 
 - ММИ_ИТиАП_09.04.03_Д1.6.4_Системы электронного документооборота
 
@@ -47,7 +47,7 @@ e.a.timokhova@urfu.ru etimokhova@gmail.com
 
 Кафедра информационных технологий и автоматизации проектирования
 
-schihovcevaa@mail.ru
+schihovcevaa@mail.ru  +7(902)509-91-00
 
 + ММИ_ИТиАП_09.03.01_Д1.14.3_Информационные технологии в социальных коммуникациях.docx
 
